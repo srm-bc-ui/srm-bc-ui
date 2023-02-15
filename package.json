@@ -1,6 +1,6 @@
 {
   "name": "srm-bc-ui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "react业务组件库",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -20,7 +20,7 @@
     "lint-fix:script": "npm run lint:script -- --fix",
     "prepare": "husky install",
     "lint-staged": "lint-staged",
-    "patch":"npm version patch"
+    "patch": "npm version patch"
   },
   "publishConfig": {
     "access": "public"
