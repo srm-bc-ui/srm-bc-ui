@@ -1,6 +1,6 @@
 {
   "name": "srm-bc-ui",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "react业务组件库",
   "main": "lib/index.js",
   "module": "es/index.js",
